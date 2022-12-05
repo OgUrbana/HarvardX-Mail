@@ -1,0 +1,32 @@
+textarea {
+    min-height: 400px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.subject {
+    padding-left: 1rem;
+}
+
+.list-group-item.active, .list-group-item.active:hover {
+    background-color: white;
+    border-color: black;
+    color: black;
+}
+
+.list-group-item, .list-group-item:hover {
+    background-color: gray;
+}
+
+
+bold {
+    font-weight: bold;
+}
+
+.divider {
+    border-top: 1px solid black;
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
